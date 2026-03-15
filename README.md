@@ -56,5 +56,4 @@ python suburbious.py
 ```
 
 ## Original Authors
--Iván Moro Cienfuegos
--Daniel Viñas Vega
+-Iván Moro Cienfuegos and Daniel Viñas Vega

@@ -1,0 +1,15 @@
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+env/
+
+# Archivos ocultos de Windows/macOS
+Thumbs.db
+.DS_Store
+
+# Ignorar el archivo de récords local para no sobreescribirlo en GitHub
+record.txt

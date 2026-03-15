@@ -21,7 +21,7 @@
 The main objective of the game is to strategically place different structures on a grid board to score the highest possible points while managing building collapses, Bigfoot invasions, and limited resources.
 
 ### Gameplay
-*(Drag and drop a screenshot or GIF of your game running here)*
+![Suburbious Gameplay](gameplay.png)
 
 ###Tech Stack
 - **Language:** Python 3

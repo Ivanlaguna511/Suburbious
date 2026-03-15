@@ -1,8 +1,13 @@
-# Suburbious (Classic Python Edition)
+# Suburbious (Second practice of the subject Programming Paradigms, second quarter of the first year)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![wxPython](https://img.shields.io/badge/wxPython-GUI-blue?style=for-the-badge)
-![OOP](https://img.shields.io/badge/Paradigm-OOP-success?style=for-the-badge)
+<div align="center">
+  
+  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![wxPython](https://img.shields.io/badge/wxPython-GUI-blue?style=for-the-badge)
+  ![OOP](https://img.shields.io/badge/Paradigm-OOP-success?style=for-the-badge)
+  ![Academic](https://img.shields.io/badge/Academic_Project-1st_Year-purple?style=for-the-badge)
+
+</div>
 
 > **🚀 2026 MODERN REMAKE AVAILABLE:**
 > This repository contains the original legacy source code of my 1st-Year University Project (Computer Engineering). 
@@ -14,11 +19,13 @@
 
 ---
 
-## About the Original Version (This Repository)
+## About the Original Version
 
 "Suburbious" is a puzzle and resource-management video game originally developed as the final project for the **Programming Paradigms** course. 
 
 The main objective of the game is to strategically place different structures on a grid board to score the highest possible points while managing building collapses, Bigfoot invasions, and limited resources.
+
+In this practice, after implementing all the logic and running the game via terminal, we were in charge of generating a visual interface.
 
 ### Gameplay
 ![Suburbious Gameplay](gameplay.png)

@@ -43,3 +43,18 @@ If you want to run this classic version on your machine, you will need the graph
 ```bash
 git clone [https://github.com/TU_USUARIO/suburbious-python-legacy.git](https://github.com/TU_USUARIO/suburbious-python-legacy.git)
 cd suburbious-python-legacy
+```
+
+**2. Install dependencies:**
+```bash
+pip install -r requirements.txt
+```
+
+**3. Run the application:**
+```bash
+python suburbious.py
+```
+
+## Original Authors
+-Iván Moro Cienfuegos
+-Daniel Viñas Vega

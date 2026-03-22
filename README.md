@@ -30,7 +30,7 @@ In this practice, after implementing all the logic and running the game via term
 ### Gameplay
 ![Suburbious Gameplay](gameplay.png)
 
-###Tech Stack
+### Tech Stack
 - **Language:** Python 3
 - **GUI Framework:** `wxPython` (Desktop Application)
 - **Paradigm:** Object-Oriented Programming (OOP)
